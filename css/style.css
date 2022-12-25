@@ -1,0 +1,348 @@
+body p{
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    color: #313233;
+}
+/*Header Start*/
+header{
+    background: url(../images/banner.jpg);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 50px 0 100px;
+}
+.h_menu{
+}
+.logo{}
+.logo img{}
+.c_button{}
+.menu{
+    margin-top:24px ;
+    min-height: 60px;
+}
+.menu li{
+    padding: 0 20px;
+}
+.menu li a{
+    font-size: 18px;
+    text-decoration: none;
+    color: #fff !important;
+}
+.menu li a:hover{
+    border-bottom: 1px solid #fff;
+}
+
+.h_content{}
+.comm_heading{
+    font-family: 'Grand Hotel', cursive;
+    font-size: 100px;
+    color: #fff;
+    letter-spacing: 2px;
+    line-height: 40px;
+    margin-top: 60px;
+}
+.comm_para{
+    color: #fff;
+    margin: 40px 0;
+}
+.com_btn{
+    width: 320px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: #fff;
+    color:#e8565e ;
+    font-size: 18px;
+    font-weight: 700;
+}
+/*Popular Section Start*/
+.popular{
+    background-image:url(../images/banner2.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 50px 0 20px;
+}
+.popular_heading{
+    font-size: 60px;
+    color: #e8565e;
+}
+.popular_para{
+    color: #000000;
+}
+.single_popular{
+    text-align: center;
+    padding: 30px;
+}
+.popular_img{}
+.popular_img img{
+    width: 320px;
+    height: 260px;
+    border-radius: 50%;
+}
+.sin_popular_heading{
+    font-family: 'Grand Hotel', cursive;
+    font-size: 48px;
+    color: #e8565e;
+    margin: 0;
+}
+.popular_heading{
+    margin: 0;
+}
+.sin_popular_heading h2{
+    margin-top: 20px;
+}
+.sin_popular_para{
+    padding: 0;
+    line-height: 20px;
+}
+
+
+.sin_popular_para p{
+   
+}
+/*Popular Section End*/
+/*stastic Section Start*/
+.stastic{
+    background-image: url(../images/banner22.jpg);
+}
+.stastic_heading{
+    font-size: 90px;
+}
+.stastic_para{
+    line-height: 20px;
+}
+.single_stastic{
+    
+}
+.sin_stastic_heading{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 3px dashed #fff;
+    position: relative;
+}
+.sin_stastic_heading h2 {
+    font-size: 50px;
+    font-family: 'Lato', sans-serif;
+    color: #ffffff;
+    position: absolute;
+    top: 27%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    width: 200px;
+}
+/*stastic Section End*/
+/*Menu Section Start*/
+.menu_sec{
+    padding: 70px 0 100px;
+    background-color: #eee6cc;
+}
+.single_menu_sec{
+    padding-top: 40px;
+}
+.menu_sec_img{
+    margin-top: 20px;
+}
+.menu_sec_content{
+    margin-right: 50px;
+}
+.menu_sec_content h2{
+    font-family: 'Grand Hotel', cursive;
+    font-size: 36px;
+    color: #e8565e;
+}
+.menu_sec_content p{}
+/*Menu Section End*/
+/*Test Part Start*/
+.delicious{
+    padding: 0;
+}
+.deli_img{
+    height: 600px;
+    width: 600px;
+}
+.deli_content{
+    margin-top: 35%;
+}
+.deli_content h1{
+    font-family: 'Grand Hotel', cursive;
+    color: #e8565e;
+    font-size: 72px;
+    
+}
+.deli_content p{
+    font-size: 24px;
+
+}
+.order_btn{
+    width: 50% !important;
+}
+/*Test Part End*/
+/*Pakage Start*/
+.pakage{
+    background-color: #eee6cc ;
+    padding: 70px 0 100px;
+}
+.single_pakage{
+    background-color: #ffffff;
+    padding: 40px 20px 20px;
+    border-radius: 5px;
+    min-height: 410px;
+}
+.pakage_img{
+    padding: 30px;
+}
+.popular_btn{
+    width: 100%;
+    background-color: #e8565e;
+    padding: 12px 0;
+    border-radius: 30px;
+    border: none;
+}
+.pakage_para{
+    font-size: 20px;
+    color: #000000;
+}
+.popular_btn a{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 18px;
+}
+.popular_btn:hover{
+    transition: .8s;
+}
+/*Pakage End*/
+/*Portfolio Start*/
+.portfolio{
+    background-image: url(../images/banner5.jpg);
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-position: bottom;
+    padding: 70px 100px;
+}
+.port_img{
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+}
+.port_para{
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 40px;
+    margin: 40px 0;
+}
+.port_heding{
+    font-family: 'Grand Hotel', cursive;
+    font-size: 60px;
+    color: #e8565e;
+}
+/*portfolio End*/
+/*Subscribe Start*/
+.subsc_sec{
+    background-color: #eee6cc;
+    padding: 70px 0 100px;
+}
+.sub_para{
+    color: #000000;
+}
+.sub_input{
+    border: none;
+}
+.sub_input:focus {
+    color: #212529;
+    background-color: #fff;
+    border-color: #86b7fe;
+    outline: 0;
+    box-shadow: none;
+}
+.sub_button{
+    background-color: #e8565e;
+    display: inline-block;
+    color: #ffffff;
+    width: 100px;
+    min-height: 45px;
+}
+.sub_button:hover{
+    border: 0;
+    color: #ffffff;
+    background-color: #0d6efd;
+    transition: .8s;
+}
+/*Subscribe End*/
+/*Footer Start*/
+footer{
+    background-color: #2a2a2a;
+    padding: 70px 0 40px;
+    color: #ffffff;
+}
+.footer_aboutus{
+    padding: 0 20px;
+}
+footer h2{
+    font-family: 'Grand Hotel', cursive;
+    color: #ffffff;
+}
+.footer_aboutus p{
+    color: #ffffff;
+}
+.footer_about, .footer_service{}
+.footer_about ul{
+    padding: 0;
+}
+.footer_about ul li{
+    list-style: none;
+    padding: 5px 0;
+}
+.footer_service ul li{
+    list-style: none;
+    padding: 5px 0;
+}
+.footer_about ul li a{
+    text-decoration: none !important;
+    color: #ffffff !important;
+}
+.footer_service ul{
+    padding: 0;
+}
+.footer_service ul li a{
+    text-decoration: none !important;
+    color: #ffffff !important;
+}
+.footer_about ul li a:hover{
+    border-bottom: 2px solid #eee6cc;
+}
+.footer_service ul li a:hover{
+    border-bottom: 2px solid #eee6cc;
+}
+
+.footer_social{}
+.footer_social ul{
+    padding: 0;
+}
+.footer_social ul li{
+    list-style: none;
+    padding: 10px 0;
+}
+.footer_social ul li a{
+    text-decoration: none;
+    color: #212529 ;
+}
+.footer_social ul li a i{
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    padding: 5px;
+    background-color: #ffffff;
+}
+.footer_social ul li a span{
+    margin-left: 15px;
+    color: #ffffff;
+}
+.footer_social ul li a:hover span{
+    border-bottom: 2px solid #ffffff;
+}
+
+/*Footer End*/

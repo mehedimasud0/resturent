@@ -1,0 +1,375 @@
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    /*Header Start*/
+    header {
+        padding: 10px 0;
+    }
+    .c_button {
+        margin-top: 20px;
+    }
+    .menu {
+        width: 100px;
+        margin: -50px auto 0px;
+
+    }
+    .menu li a {
+        padding: 5px;
+    }
+    .comm_heading {
+        margin-top: 30px;
+        font-size: 48px;
+        line-height: 10px;
+    }
+    .comm_para {
+        font-size: 14px;
+        margin: 20px 0;
+    }
+    .com_btn {
+        width: 60%;
+        height: 40px;
+        font-size: 16px;
+    }
+    /* Popular section Start*/
+    .popular {
+        padding: 20px 0 10px;
+    }
+    .single_popular {
+        padding: 10px 30px;
+    }
+    .sin_popular_heading h2 {
+        font-size: 36px;
+        margin-top: 10px;
+    }
+    .sin_popular_para p {
+        font-size: 14px;
+    }
+     /*stastic Section Start*/
+     .comm_heading {
+        font-size: 60px;
+        margin-top: 20px;
+    }
+    .sin_stastic_heading {
+        width: 200px;
+        height: 200px;
+    }
+    .sin_stastic_heading h2 {
+        font-size: 40px;
+        top: 26%;
+        width: 120px;
+    }
+    /*Menu Item Start*/
+    .menu_sec {
+        padding: 20px 0 20px;
+    }
+    .single_menu_sec {
+        padding-top: 0px;
+    }
+    .menu_sec_img {
+        margin-top: 0px;
+    }
+    .menu_sec_content {
+        text-align: center;
+        margin-right: 0px;
+        padding: 10px 20px;
+    }
+    .comm_para {
+        font-size: 14px;
+        margin: 30px 0 20px;
+    }
+    /*Delicious Start*/
+    .deli_img {
+        width: 100%;
+    }
+    .deli_content {
+        margin: 10px auto;
+        text-align: center;
+    }
+    .deli_content h1 {
+        font-size: 36px;
+    }
+    .deli_content p {
+        font-size: 16px;
+    }
+    /*Pakage Start*/
+    .pakage {
+        padding: 30px 0 40px;
+    }
+    .single_pakage {
+        min-height: 330px;
+        padding: 20px;
+        margin: 30px 10px 0;
+    }
+    .pakage_img {
+        padding: 0px;
+    }
+    .sin_popular_heading h2 {
+        font-size: 28px;
+    }
+    .popular_btn {
+        width: 80%;
+        padding: 6px 0;
+    }
+    /*portfolio Start*/
+    .portfolio {
+        padding: 10px 20px;
+    }
+    .port_para {
+        margin: 5px 0;
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .port_heding {
+        font-size: 48px;
+    }
+    /*Subscribe*/
+    .subsc_sec {
+        padding: 10px 0 20px;
+    }
+    /*Footer*/
+    footer {
+        padding: 10px 0 20px;
+    }
+    .footer_aboutus {
+        padding: 0;
+    }
+}
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /*Header Start*/
+    header {
+        padding: 30px 0;
+    }
+    .c_button {
+        margin-top: 20px;
+    }
+    .menu {
+        margin-top: -30px;
+        width: 100px;
+        margin: -40px auto 0;
+    }
+    .menu li a {
+        padding: 5px;
+    }
+    .c_button {
+        margin-left: 25%;
+    }
+    .comm_heading {
+        font-size: 80px;
+        margin-top: 40px;
+    }
+    .comm_para {
+        margin: 20px 0;
+    }
+     /* Popular section Start*/
+     .popular {
+        padding: 30px 0 30px;
+    }
+    .single_popular {
+        text-align: center;
+        padding: 0px; 
+        margin-top: 30px;
+    }
+    .popular_heading{
+        margin: 0px;
+    }
+    .popular_para {
+        line-height: 18px;
+    }
+    .sin_popular_heading h2 {
+        font-size: 40px;
+        margin-top: 10px;
+    }
+    .popular_img img {
+        width: 250px;
+        height: 250px;
+    }
+    /*stastic Section Start*/
+    .comm_heading {
+        font-size: 60px;
+        margin-top: 20px;
+    }
+    .sin_stastic_heading {
+        width: 150px;
+        height: 150px;
+    }
+    .sin_stastic_heading h2 {
+        font-size: 30px;
+        top: 22%;
+        width: 120px;
+        
+    }
+    /*Menu Item Start*/
+    .menu_sec {
+        padding: 30px 0 50px;
+    }
+    .single_menu_sec {
+        padding-top: 0px;
+    }
+    .menu_sec_img {
+        margin-top: 10px;
+    }
+    .menu_sec_content {
+        text-align: center;
+        margin-right: 0px;
+        padding: 10px 50px;
+    }
+    /*Delicious Start*/
+    .deli_img {
+        width: 100%;
+    }
+    .deli_content {
+        margin: 30px auto;
+        text-align: center;
+    }
+    .deli_content h1 {
+        font-size: 48px;
+    }
+    .deli_content p {
+        font-size: 18px;
+    }
+    /*Pakage Start*/
+    .pakage {
+        padding: 30px 0 40px;
+    }
+    .single_pakage {
+        min-height: 330px;
+        padding: 20px;
+        margin: 30px 50px 0;
+    }
+    .pakage_img {
+        padding: 0px;
+    }
+    .sin_popular_heading h2 {
+        font-size: 28px;
+    }
+    .popular_btn {
+        width: 80%;
+        padding: 6px 0;
+    }
+    /*portfolio Start*/
+    .portfolio {
+        padding: 20px 40px;
+    }
+    .port_para {
+        margin: 10px 0;
+        font-size: 24px;
+        line-height: 24px;
+    }
+    .port_heding {
+        font-size: 55px;
+    }
+    /*Subscribe*/
+    .subsc_sec {
+        padding: 30px 0 50px;
+    }
+    footer {
+        padding: 30px 0 50px;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /*Header Start*/
+    header {
+        padding: 30px 0;
+    }
+    .menu {
+        margin-top: 0px;
+    }
+    .c_button {
+        margin-left: 25%;
+    }
+    .comm_heading {
+        margin-top: 40px;
+    }
+    .comm_para {
+        margin: 30px 0;
+    }
+    /* Popular section Start*/
+    .popular {
+        padding: 10px 0 30px;
+    }
+    .single_popular {
+        text-align: center;
+        padding: 0px; 
+        margin-top: 20px;
+    }
+    .sin_popular_heading h2 {
+        font-size: 40px;
+        margin-top: 15px;
+    }
+
+/*stastic Section Start*/
+    .sin_stastic_heading {
+        width: 200px;
+        height: 200px;
+    }
+    .sin_stastic_heading h2 {
+        font-size: 40px;
+        top: 17%;
+        width: 150px;
+    }
+    /*Menu Item Start*/
+    .menu_sec {
+        padding: 20px 0 50px;
+    }
+    .menu_sec_content {
+        margin-right: 0px;
+    }
+    .single_menu_sec {
+        padding-top: 20px;
+    }
+    /*Delicious Start*/
+    .deli_img {
+        width: 100%;
+    }
+    .deli_content {
+        margin: 30px auto;
+        text-align: center;
+    }
+    /*Pakage Start*/
+    .pakage {
+        padding: 0px 0 60px;
+    }
+    .single_pakage {
+        min-height: 330px;
+        padding: 0;
+    }
+    .pakage_img {
+        padding: 20px;
+    }
+    .sin_popular_heading h2 {
+        font-size: 28px;
+    }
+    .popular_btn {
+        width: 80%;
+        padding: 6px 0;
+    }
+    /*portfolio Start*/
+    .portfolio {
+        padding: 50px 70px;
+    }
+    .port_para {
+        margin: 30px 0;
+    }
+
+    /*Subscribe*/
+    .subsc_sec {
+        padding: 60px 0 80px;
+    }
+    footer {
+        padding: 60px 0 80px;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { ... }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { ... }
+
+/* Extra Extra large devices (Extra large desktops, 1400px and up) */
+@media (min-width: 1400px) { ... }
